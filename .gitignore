@@ -1,0 +1,6 @@
+venv/
+--pycache--/
+*.pyc
+.env
+data/*.csv
+.ipynb_cheakpoints/
