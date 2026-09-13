@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+jupyter
+ipykernel
+matplotlib
+sentence-transformers
+chromadb
+python-dotenv
+openai
+langgraph
+joblib
+pytest
+nbformat
+nbclient
